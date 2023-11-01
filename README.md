@@ -1,14 +1,68 @@
-# Build and Deploy a Full Stack Social Media App | React JS, Appwrite, Tailwind CSS, React Query
-[![Social Media](https://i.ibb.co/k4BQtdP/Thumbnail.png)](https://youtu.be/_W3R2VwRyF4)
+# Full Stack Social Media App | React JS, Appwrite, Tailwind CSS, React Query
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
+<p align="center">
+    <img src="https://img.shields.io/github/repo-size/drbv27/influence-youth" />
+    <img src="https://img.shields.io/github/languages/top/drbv27/influence-youth"  />
+    <img src="https://img.shields.io/github/issues/drbv27/influence-youth" />
+    <img src="https://img.shields.io/github/last-commit/drbv27/influence-youth" >
+    <a href="https://github.com/drbv27/"><img src="https://img.shields.io/github/followers/drbv27?style=social" target="_blank" /></a>
+</p>
 
-## Next.js 13 eBook & Course
-📚 https://resource.jsmastery.pro/nextjs-guide
+<p align="center">
+    <img src="https://img.shields.io/badge/vite-orange" />
+    <img src="https://img.shields.io/badge/react-blue" />
+    <img src="https://img.shields.io/badge/appwrite-red" />
+    <img src="https://img.shields.io/badge/typescript-blue"  />
+    <img src="https://img.shields.io/badge/tanstackQuery-red"  />
+    <img src="https://img.shields.io/badge/tailwind-blue"  />
+</p>
 
-## Summary
-Build a modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing performance using React JS, Appwrite, TypeScript, and more.
+### [Demo App](https://influence-youth.vercel.app/)
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+## Table of Contents
+- [Description](#description)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Testing](#testing)
+- [Contributing](#contributing)
+- [Questions](#questions)
+
+## Installation
+💾   
+  
+`clone the project`
+
+`npm install`
+     
+  
+## Usage
+To run the application locally,
+dont forget to create a .env file with your mysql credentials:
+
+```
+VITE_APPWRITE_URL='https://xxxxxxxxxx'
+VITE_APPWRITE_PROJECT_ID='xxxxxxxxxxx'
+VITE_APPWRITE_DATABASE_ID='xxxxxxxxxxx'
+VITE_APPWRITE_STORAGE_ID='xxxxxxxxxxx'
+VITE_APPWRITE_USER_COLLECTION_ID='xxxxxxxxxxx'
+VITE_APPWRITE_POST_COLLECTION_ID='xxxxxxxxxxx'
+VITE_APPWRITE_SAVES_COLLECTION_ID='xxxxxxxxxxx'
+```
+
+Also
+you need to have previously create and configure the project DB and the structure in Appwrite.
+<a href="https://appwrite.io/">APPWRITE</a>
+
+## Testing
+✏️
+
+Helper testing is currently setup with Jest
+
+## Contributing
+:octocat: [Diego Bonilla](https://github.com/drbv27)
+
+## Questions
+✉️ Contact me with any questions: [email](mailto:drbv27@gmail.com.com) , [GitHub](https://github.com/drbv27)<br />
