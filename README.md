@@ -13,16 +13,13 @@
     <img src="https://img.shields.io/badge/react-blue" />
     <img src="https://img.shields.io/badge/appwrite-red" />
     <img src="https://img.shields.io/badge/typescript-blue"  />
-    <img src="https://img.shields.io/badge/tanstackQuery-red"  />
+    <img src="https://img.shields.io/badge/tanstackQuery-yellow"  />
     <img src="https://img.shields.io/badge/tailwind-blue"  />
 </p>
 
 ### [Demo App](https://influence-youth.vercel.app/)
 
 ## Table of Contents
-- [Description](#description)
-- [User Story](#user-story)
-- [Acceptance Criteria](#acceptance-criteria)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
